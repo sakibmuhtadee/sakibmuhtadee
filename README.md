@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sakibmuhtadee
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me 
 
 <!---
